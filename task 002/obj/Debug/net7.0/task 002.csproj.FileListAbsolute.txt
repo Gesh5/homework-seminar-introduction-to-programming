@@ -1,0 +1,15 @@
+D:\уроки програмирования\3 блок знакомство с языками програмирования\homework seminar introduction to programming\seminar 1\task 002\bin\Debug\net7.0\task 002.exe
+D:\уроки програмирования\3 блок знакомство с языками програмирования\homework seminar introduction to programming\seminar 1\task 002\bin\Debug\net7.0\task 002.deps.json
+D:\уроки програмирования\3 блок знакомство с языками програмирования\homework seminar introduction to programming\seminar 1\task 002\bin\Debug\net7.0\task 002.runtimeconfig.json
+D:\уроки програмирования\3 блок знакомство с языками програмирования\homework seminar introduction to programming\seminar 1\task 002\bin\Debug\net7.0\task 002.dll
+D:\уроки програмирования\3 блок знакомство с языками програмирования\homework seminar introduction to programming\seminar 1\task 002\bin\Debug\net7.0\task 002.pdb
+D:\уроки програмирования\3 блок знакомство с языками програмирования\homework seminar introduction to programming\seminar 1\task 002\obj\Debug\net7.0\task 002.csproj.AssemblyReference.cache
+D:\уроки програмирования\3 блок знакомство с языками програмирования\homework seminar introduction to programming\seminar 1\task 002\obj\Debug\net7.0\task 002.GeneratedMSBuildEditorConfig.editorconfig
+D:\уроки програмирования\3 блок знакомство с языками програмирования\homework seminar introduction to programming\seminar 1\task 002\obj\Debug\net7.0\task 002.AssemblyInfoInputs.cache
+D:\уроки програмирования\3 блок знакомство с языками програмирования\homework seminar introduction to programming\seminar 1\task 002\obj\Debug\net7.0\task 002.AssemblyInfo.cs
+D:\уроки програмирования\3 блок знакомство с языками програмирования\homework seminar introduction to programming\seminar 1\task 002\obj\Debug\net7.0\task 002.csproj.CoreCompileInputs.cache
+D:\уроки програмирования\3 блок знакомство с языками програмирования\homework seminar introduction to programming\seminar 1\task 002\obj\Debug\net7.0\task 002.dll
+D:\уроки програмирования\3 блок знакомство с языками програмирования\homework seminar introduction to programming\seminar 1\task 002\obj\Debug\net7.0\refint\task 002.dll
+D:\уроки програмирования\3 блок знакомство с языками програмирования\homework seminar introduction to programming\seminar 1\task 002\obj\Debug\net7.0\task 002.pdb
+D:\уроки програмирования\3 блок знакомство с языками програмирования\homework seminar introduction to programming\seminar 1\task 002\obj\Debug\net7.0\task 002.genruntimeconfig.cache
+D:\уроки програмирования\3 блок знакомство с языками програмирования\homework seminar introduction to programming\seminar 1\task 002\obj\Debug\net7.0\ref\task 002.dll
